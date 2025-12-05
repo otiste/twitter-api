@@ -32,6 +32,7 @@ import org.springframework.context.annotation.Bean;
 public class SpringdocApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Tintin");
 		SpringApplication.run(SpringdocApplication.class, args);
 	}
 
