@@ -1,12 +1,12 @@
 <servers>
 	<server>
 		<id>registry.hub.docker.com</id>
-		<username>admin</username>
-		<password>dckr_pat_aXwvWT9qKGFz0Zy_XsI7wEZWxsU</password>
+		<username>otiste</username>
+		<password>dckr_pat_m18TU9QXxkSxG6PEWyfgJKdqA9s</password>
 	</server>
 	<server>
 		<id>registry-1.docker.io</id>
 		<username>admin</username>
-		<password>dckr_pat_aXwvWT9qKGFz0Zy_XsI7wEZWxsU</password>
+		<password>dckr_pat_m18TU9QXxkSxG6PEWyfgJKdqA9s</password>
 	</server>
 </servers>
